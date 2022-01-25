@@ -1,0 +1,28 @@
+@font-face {
+    font-family: headline;
+    src: url(font/Zector.otf);
+}
+
+body{
+    background-color: #aeccdd;
+    font-family: headline;
+    font-size: 1rem;
+}
+html{
+    font-family: headline;
+}
+
+#headLine{
+    text-align: center;
+}
+
+.picturesSettings{
+    padding-left: 1%;
+    padding-top: 1%;
+    width: 20vw;
+    height: 12vw;
+}
+
+#fullPicSettings{
+    text-align: center;
+}
